@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Associate Software Developer | 💼 Immediate Joiner  
+  🚀 Associate Software Developer
   <br/>
   📍 Pune, Maharashtra, India  
   📧 <a href="mailto:mahirudrakhetre2001@gmail.com">mahirudrakhetre2001@gmail.com</a> | 📞 +91 7776964334
