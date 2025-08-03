@@ -17,6 +17,9 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=csharp,dotnet,js,react,angular,html,css,bootstrap,git,github,vscode,mysql" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="40" />
+
 </p>
 
 - 🔧 **Languages/Frameworks**: C#, ASP.NET MVC, .NET Core, Web API, JavaScript, jQuery  
