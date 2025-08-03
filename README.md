@@ -16,7 +16,19 @@
 ### 🛠️ Skills & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=csharp,dotnet,sql,js,jquery,react,angular,html,css,bootstrap,git,github,vscode" />
+<!-- Skillicons (most common dev tools) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,sql,js,jquery,react,angular,html,css,bootstrap,git,github,vscode" />
+</p>
+
+<!-- Custom icons for Visual Studio and C# -->
+<p align="left">
+  <!-- Visual Studio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
+
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+</p>
 
 </p>
 
