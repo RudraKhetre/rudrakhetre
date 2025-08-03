@@ -29,7 +29,6 @@
 ### 🌐 Portfolio
 
 - 🔗 [**My Portfolio**](https://rudra-khetre-resume.netlify.app/)
-- 🖼️ ![Banner](https://github.com/RudraKhetre/RudraKhetre/blob/main/cdacf1be-a127-423d-982e-bc1f44694072.png)
 
 ---
 
