@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Rudra Khetre
 
-<!--
-**RudraKhetre/rudrakhetre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Associate Software Engineer | Immediate Joiner  
+💻 Full Stack .NET Developer  
+📍 Pune, Maharashtra, India  
+📧 mahirudrakhetre2001@gmail.com | 📞 +91 7776964334  
 
-Here are some ideas to get you started:
+### 🛠️ Skills:
+- C#, ASP.NET MVC, ASP.NET Core
+- Web API, SQL Server, JavaScript, jQuery
+- React, Angular, HTML/CSS/Bootstrap
+- SEO, Business Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Portfolio:
+[🔗 MyPortfolio](https://rudra-khetre-resume.netlify.app/)
+
+![Rudra's Banner](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/your-banner-image.png)
+> *(Replace with your actual image link or host it in the same repo)*
+
+---
+
+🔍 **Currently looking for new opportunities**  
+📘 Passionate about building modern web apps & contributing to open source  
+
