@@ -16,8 +16,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,csharp,cs,js,jquery,visualstudio,vscode,git,github,html,css,bootstrap,react,angular,sql" />
-  <!-- Additional C# icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" style="vertical-align:middle" />
 </p>
 
 - 🔧 **Languages/Frameworks**: C#, ASP.NET MVC, .NET Core, Web API, JavaScript, jQuery  
