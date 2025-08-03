@@ -16,7 +16,7 @@
 ### 🛠️ Skills & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=csharp,dotnet,js,react,angular,html,css,bootstrap,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=csharp,dotnet,asp,sqlserver,js,jquery,react,angular,html,css,bootstrap,git,github,vscode,visualstudio" />
 
 </p>
 
