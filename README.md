@@ -15,7 +15,7 @@
 ### 🛠️ Skills & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cs,js,jquery,visualstudio,vscode,git,github,html,css,bootstrap,react,angular,sql" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,jquery,visualstudio,vscode,git,github,html,css,bootstrap,react,angular,sql" />
 </p>
 
 - 🔧 **Languages/Frameworks**: C#, ASP.NET MVC, .NET Core, Web API, JavaScript, jQuery  
