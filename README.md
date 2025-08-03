@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Rudra Khetre</h1>
 
-<p align="center">
-  <img src="[https://github.com/RudraKhetre/RudraKhetre/blob/main/cdacf1be-a127-423d-982e-bc1f44694072.png](https://media.naukri.com/media/jphotov1/l244%253ALukcMTq72QcQE7i5UQgEbpsxwHgmbs88g1t73KTDWz9Radd4f6%252FjA4whEvkL?v=20250107160536)" width="150" alt="Profile Picture" style="border-radius: 50%;" />
+<p align="center"
+  <img src="https://media.naukri.com/media/jphotov1/l244%253ALukcMTq72QcQE7i5UQgEbpsxwHgmbs88g1t73KTDWz9Radd4f6%252FjA4whEvkL?v=20250107160536" width="150" alt="Profile Picture" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
