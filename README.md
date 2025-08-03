@@ -45,7 +45,7 @@
 
 <p align="left">
   <a href="mailto:mahirudrakhetre2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/rudrakhetre/](https://www.linkedin.com/in/rudra-khetre-89096921b/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rudra-khetre-89096921b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://rudra-khetre-resume.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
